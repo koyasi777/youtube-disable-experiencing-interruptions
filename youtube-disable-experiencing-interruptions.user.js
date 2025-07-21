@@ -26,11 +26,10 @@
 // @match        https://www.youtube.com/*
 // @run-at       document-start
 // @grant        none
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @license      MIT
 // @homepageURL  https://github.com/koyasi777/youtube-disable-experiencing-interruptions
 // @supportURL   https://github.com/koyasi777/youtube-disable-experiencing-interruptions/issues
-// @icon         https://www.youtube.com/s/desktop/fe2e5a86/img/favicon.ico
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // ==/UserScript==
 
 (function () {
