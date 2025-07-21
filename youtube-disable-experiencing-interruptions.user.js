@@ -12,6 +12,7 @@
 // @name:ru      Отключить всплывающее окно "Воспроизведение прервано?" и задержку воспроизведения на YouTube
 // @version      1.0.0
 // @description         YouTubeの「再生が中断されていますか？」ポップアップ（例: "Experiencing interruptions?"）および初回再生時の遅延を自動で無効化します。
+// @description:ja      YouTubeの「再生が中断されていますか？」ポップアップ（例: "Experiencing interruptions?"）および初回再生時の遅延を自動で無効化します。
 // @description:en      Automatically disables YouTube’s “Experiencing interruptions?” and “Video paused. Continue watching?” popups, as well as initial playback delay.
 // @description:zh-CN   自动禁用YouTube“播放暂停，是否继续观看？”弹窗以及初始播放延迟。
 // @description:zh-TW   自動停用YouTube 的「播放已暫停，是否繼續觀看？」提示與初始播放延遲。
