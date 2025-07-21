@@ -26,6 +26,7 @@
 // @match        https://www.youtube.com/*
 // @run-at       document-start
 // @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @license      MIT
 // @homepageURL  https://github.com/koyasi777/youtube-disable-experiencing-interruptions
 // @supportURL   https://github.com/koyasi777/youtube-disable-experiencing-interruptions/issues
