@@ -6,11 +6,11 @@
 // @name:zh-TW   停用YouTube「播放已暫停，是否繼續觀看？」提示視窗與播放延遲（Firefox 專用）
 // @name:ko      YouTube "중단되었나요?" 팝업 및 재생 지연 비활성화 (Firefox용)
 // @name:fr      Désactiver la fenêtre "Lecture interrompue ?" et le délai de lecture sur YouTube (Pour Firefox)
-// @name:es      Desactivar el mensaje "¿Se interrumpió la reproducción?" y el retraso de reproducción en YouTube (Para Firefox)
-// @name:de      Deaktiviere das YouTube-Popup "Wiedergabe unterbrochen?" und die Wiedergabeverzögerung (Für Firefox)
-// @name:pt-BR   Desativar o pop-up "A reprodução foi interrompida?" e o atraso de reprodução no YouTube (Para Firefox)
-// @name:ru      Отключить всплывающее окно "Воспроизведение прервано?" и задержку воспроизведения на YouTube (для Firefox)
-// @version      1.0.1
+// @name:es      Desactivar el mensaje "¿Se interrumpió la reproducción?" y el retraso de reproducción en YouTube
+// @name:de      Deaktiviere das YouTube-Popup "Wiedergabe unterbrochen?" und die Wiedergabeverzögerung
+// @name:pt-BR   Desativar o pop-up "A reprodução foi interrompida?" e o atraso de reprodução no YouTube
+// @name:ru      Отключить всплывающее окно "Воспроизведение прервано?" и задержку воспроизведения на YouTube
+// @version      1.0.0
 // @description         YouTubeの「再生が中断されていますか？」ポップアップ（例: "Experiencing interruptions?"）および初回再生時の遅延を自動で無効化します。
 // @description:ja      YouTubeの「再生が中断されていますか？」ポップアップ（例: "Experiencing interruptions?"）および初回再生時の遅延を自動で無効化します。
 // @description:en      Automatically disables YouTube’s “Experiencing interruptions?” and “Video paused. Continue watching?” popups, as well as initial playback delay.
