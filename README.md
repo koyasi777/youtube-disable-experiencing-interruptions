@@ -1,4 +1,4 @@
-# Disable YouTube "Experiencing interruptions?" Popup and Playback Delay
+# Disable YouTube "Experiencing interruptions?" Popup and Playback Delay For Firefox
 
 ## 📌 Overview
 
